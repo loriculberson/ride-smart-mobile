@@ -1,15 +1,15 @@
 {
   "name": "ride-smart-mobile",
-  "description": "An empty new project",
+  "description": "Mapview of dangerous areas for cyclists",
   "slug": "ride-smart-mobile",
   "privacy": "public",
   "sdkVersion": "17.0.0",
   "version": "1.0.0",
   "orientation": "portrait",
   "primaryColor": "#cccccc",
-  "icon": "./assets/icons/app.png",
+  "icon": "./assets/icons/ridesmartlogo_v2.png",
   "loading": {
-    "icon": "./assets/icons/loading.png",
+    "icon": "./assets/icons/ridesmartlogo_v2.png",
     "hideExponentText": false
   },
   "packagerOpts": {
