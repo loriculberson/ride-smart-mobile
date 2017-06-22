@@ -7,9 +7,9 @@
   "version": "1.0.0",
   "orientation": "portrait",
   "primaryColor": "#cccccc",
-  "icon": "./assets/icons/bike_marker.png",
+  "icon": "./assets/icons/ridesmartlogo_v2.png",
   "loading": {
-    "icon": "./assets/icons/bike_marker.png",
+    "icon": "./assets/icons/ridesmartlogo_v2.png",
     "hideExponentText": false
   },
   "packagerOpts": {
